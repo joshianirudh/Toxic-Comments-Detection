@@ -6,4 +6,4 @@ Dataset is part of a kaggle competition, can be found <a href="https://www.kaggl
 
 ### Download Link For Learned Word Vectors
 
-wiki-news-300-1M.vec file<a href="https://fasttext.cc/docs/en/english-vectors.html">here</a>
+wiki-news-300-1M.vec file: <a href="https://fasttext.cc/docs/en/english-vectors.html">here</a>
